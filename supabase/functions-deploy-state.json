@@ -1,0 +1,13 @@
+{
+  "projectId": "72312394",
+  "functions": {
+    "chat-tracker": {
+      "hasChanged": false,
+      "hash": "3f4979a511633d298d3563264c3e49d155f953ee2506a58b81e33f7c7af4e1e3"
+    },
+    "delete-account": {
+      "hasChanged": false,
+      "hash": "d7a564d8a0fe5a94a5eeab9b320577fb26a08d15af6e6b609d9e70b1f4639ed1"
+    }
+  }
+}

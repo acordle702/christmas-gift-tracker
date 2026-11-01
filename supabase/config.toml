@@ -1,0 +1,7 @@
+[functions.chat-tracker]
+verify_jwt = true
+entrypoint = "./functions/chat-tracker/index.ts"
+
+[functions.delete-account]
+verify_jwt = true
+entrypoint = "./functions/delete-account/index.ts"
